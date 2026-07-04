@@ -1,0 +1,6 @@
+{
+  "name": "SicherPay Domain Sale",
+  "description": "Premium domain name sale landing page for sicherpay.de, featuring high-end animations and typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
